@@ -1,0 +1,200 @@
+body {
+  	margin: 0 auto;
+  	font-family: 'Montserrat', sans-serif; 
+ }
+
+/* Encabezado */
+.contenedor {
+    position: fixed;
+    width: 1400px;
+    height: 108px;
+    color: #FFF;
+    margin: 0 auto;
+}
+
+div {
+	display: block;
+}
+#white_logo {
+	width: 64px;
+	height: auto;
+	margin-top: 40px;
+	margin-left: 60px;
+	float: left;
+}
+
+#menu .one{
+	margin-left: 625px;
+    margin-top: 48px;
+}
+
+.option {
+    display: inline-block;
+    margin: 0 20px;
+    text-decoration: none;
+    color: #FFF;
+    font-weight: 300;
+    font-size: 19px;
+}
+
+.four {
+	border: 1px solid white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+section {
+	display: block;
+}
+/* Definiendo fondo */
+.background{
+	width: 100%;
+    height: 758px;
+    background-image: url(../assets/images/hero.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#white_square{
+	width: 650px;
+	height: 460px;
+	background: #FFF;
+	margin-top: -640px;
+	float: left;
+	position: absolute;
+	margin-left: 750px;
+}
+
+#white_square h1{
+	color: #352384;
+	font-size: 40px;
+	margin-left: 75px;
+	margin-top: 65px;
+	
+}
+
+#white_square p{
+	color: #352384;
+	font-size: 15px;
+	font-weight: 300;
+	margin-left: 75px;	
+	margin-top: -25px;
+	position: absolute;
+	word-spacing: 3px;
+}
+
+#white_square .phone p{
+	margin-top: 30px;
+	color: #CAC5C5
+}
+
+hr{
+	width: 400px;
+	margin-top: 85px;
+	height: 0px;
+	background-color:#9D9D9D; 
+	margin-left: 75px;
+}
+
+/*boton driver*/
+#button_driver{
+	border: 1px solid #FFF; /*ancho,est.y color borde*/
+	padding: 1px; /*espacio alrededor texto*/
+	background-color: #DB14A7; /*color botón*/
+	text-decoration: none; /*sin deco texto*/
+	border-radius: 10px; /*bordes redondos*/
+	float: left;
+	margin-top: 20px;
+	margin-left: 70px;
+	width: 172px;
+	height: 52px;
+
+}
+
+#button_driver p{
+	margin-top: 15px;
+	margin-left: 22px;
+	color: #ffffff;
+	font-weight: 300;
+	display: inline-block;
+}
+
+#to_ride a{
+	color: #4986E1;
+	margin-top: 30px;
+	margin-left: 20px;
+	font-size: 15px;
+	font-weight: 200;
+	display: inline-block;
+}
+
+#applied p{
+	color: #4986E1;
+	font-size: 10px;
+	margin-top: 50px;
+}
+
+#applied a{
+	color: #DB14A7;
+}
+
+#earn p{
+	color: #4986E1;
+	font-size: 10px;
+	margin-top: 70px;
+}
+
+#earn a{
+	color: #DB14A7;
+}
+
+#section-two {
+    background: linear-gradient(#691B83, #76278F, #2B1E66);
+	margin-top: -50px;
+}
+
+.contentContainer{
+	width: 550px;
+    height: 515px;
+    padding: 60px
+}    
+
+.content {
+    width: 550px;
+    height: auto;
+    padding: 0;
+    display: inline-block;
+    color: white;
+}
+#section-two .content{
+	display: block;
+    font-weight: bold;
+}
+
+#section-two h1{
+    display: block;
+    font-weight: normal;
+    font-weight: 400px;
+    font-size: 30px;
+    margin-left: 80px;
+}
+
+#section-two p{
+	display: block;
+    font-weight: normal;
+    font-weight: 400px;
+    font-size: 14px;
+    margin-left: 80px;
+}
+
+.celphone {
+    width: 550px;
+    height: 515px;
+    margin: -450px 600px;
+    float: left;
+}
+
+img {
+    width: 135px;
+    height: auto;
+}
