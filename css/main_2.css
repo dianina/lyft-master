@@ -283,7 +283,7 @@ iframe {
     height: 400px;
     color: #fff;
     background-color: #333447;
-    margin-top: -160px;
+    margin-top: -1px;
     position: relative;
 }
 .final{
@@ -356,3 +356,50 @@ iframe {
     color: white;
     margin-left: 250px;
 }
+
+.final c h4 {
+    font-weight: 500;
+    font-size: 19px;
+    margin-left: 348px;
+}
+
+.learn {
+	margin-left: 460px;
+}
+
+.c ul {
+	line-height: 30px;
+    padding: 0;
+    color: #FFF;
+}
+
+.c ul li {
+    list-style: none;
+    padding: 8px;
+    border-radius: 100%;
+}   
+
+.c ul li a{
+    font-weight: 400;
+    font-size: 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    margin-left: 450px;
+}
+/*+++++++++++++++++++ Centrando iconos*/
+#iconos img{
+	width: 15%;
+	height: 15%;
+	margin-top: 50px;
+	margin-left: 150px;
+	left: 50%;/*posic.img con valor 50%*/
+	top: 50%;
+	margin-bottom: -25px;
+
+}
+
+
+
+
+	
