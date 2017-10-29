@@ -1,3 +1,26 @@
+Versión 1.0  29/10/17
+
+NOTAS GENERALES
+
+-  Archivos realizados y actualizados para aplicar el Reto de Código de Unidad 1.  Sprint 2.
+
+-  Maqueta de LYFT.
+
+-  El maquetado consta de las siguientes partes:
+
+  * Encabezado (Con navegador).
+  * Secciones internas (one, two, three).
+  * Footer
+
+-  Encabezado consta de: Contenedor, menu de navegación y botón de Log in.
+-  Sección One consta de: background, div con elementos h1, p y a.
+-  Sección Two consta de: clase y elementos h1, br, p, e imagen.
+-  Secciòn Three, consta de:  clases e iframes con videos.
+-  Footer consta de: clases y div, con elementos h4, ul, a, imágenes y hr.
+
+Diana Chaparro Castro
+
+-----------------------------------------------------------
 # Lyft
 
 * **Track:** _Common Core_
